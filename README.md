@@ -1,9 +1,5 @@
 ## LWS Kitchen - Food Blog and Recipes
 
-#### This is an assignment project of Reactive Accelarator Batch -2 (Module - 7) - created with Next.js
-
-[Click to view live](https://lws-kitchen-nextjs.vercel.app/)
-
 ### Requirement Analysis
 
 -   [x] রেসিপি দেখানোর জন্য Structured JSON লিস্ট পাবেন এই 'dist/data' ফোল্ডার এর ভেতরে । এই ফোল্ডারের ভেতরের JSON ফাইল গুলো Parse করে আপনাকে কন্টেন্ট লোড করতে হবে। এই এসাইনমেন্ট এ আপনি Network Call করে কোনো রেসিপি নিয়ে এসে দেখাতে পারবেন না ।
